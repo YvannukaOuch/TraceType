@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TraceType": {
+      "commandName": "Project",
+      "commandLineArgs": "--samples 100 --seed 42 --out ./out"
+    }
+  }
+}

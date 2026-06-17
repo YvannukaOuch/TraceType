@@ -111,7 +111,3 @@ Human error is **structured, biased, and localized** — not uniform noise.
 - .NET 8+
 
 ---
-
-## License
-
-MIT
